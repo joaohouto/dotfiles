@@ -1,0 +1,12 @@
+bradlc.vscode-tailwindcss
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+github.github-vscode-theme
+pkief.material-icon-theme
+prisma.prisma
+ritwickdey.liveserver
+styled-components.vscode-styled-components
+toba.vsfire
